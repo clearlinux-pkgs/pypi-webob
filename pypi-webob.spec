@@ -7,7 +7,7 @@
 #
 Name     : pypi-webob
 Version  : 1.8.9
-Release  : 101
+Release  : 102
 URL      : https://files.pythonhosted.org/packages/85/0b/1732085540b01f65e4e7999e15864fe14cd18b12a95731a43fd6fd11b26a/webob-1.8.9.tar.gz
 Source0  : https://files.pythonhosted.org/packages/85/0b/1732085540b01f65e4e7999e15864fe14cd18b12a95731a43fd6fd11b26a/webob-1.8.9.tar.gz
 Summary  : WSGI request and response object
